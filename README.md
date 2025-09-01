@@ -1,4 +1,4 @@
-# 📊 CodeSentinel_DataAnalytics-Project2 🎯
+# 📊 CodeSentinel_DataAnalytics-Project3 🎯
 
 ## 📌 Project Overview
 This project focuses on building a predictive model to estimate house prices based on various features such as square footage, number of bedrooms/bathrooms, lot size, year built, garage size, and neighborhood quality. By applying Linear Regression, the project demonstrates how statistical modeling and data visualization can turn raw housing data into valuable business insights.
@@ -89,8 +89,8 @@ To make insights more interactive and detailed, multiple plots were generated:
 ---
 
 ## 📬 Author
-###👨‍💻 Abdullah Umer
-###m📊 Data Analyst | Power BI Developer | Python Enthusiast
+### 👨‍💻 Abdullah Umer
+### 📊 Data Analyst | Power BI Developer | Python Enthusiast
 
 
 ---
