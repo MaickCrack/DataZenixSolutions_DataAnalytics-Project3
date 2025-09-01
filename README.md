@@ -89,7 +89,7 @@ To make insights more interactive and detailed, multiple plots were generated:
 ---
 
 ## 📬 Author
-### 👨‍💻 Abdullah Umer
+### 👨‍💻 Abdullah Umar
 ### 📊 Data Analyst | Power BI Developer | Python Enthusiast
 
 
